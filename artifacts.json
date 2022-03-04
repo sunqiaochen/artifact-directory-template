@@ -1,7 +1,8 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
+    "this-repository": "https://github.com/sunqiaochen/artifact-directory-template",
+    "project-repository": "https://github.com/sunqiaochen/NeurlPS_2022_DSC180",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
     "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
     "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
 }
+https://github.com/sunqiaochen/artifact-directory-template
